@@ -16,7 +16,9 @@ Estou sempre pronto para enfrentar os desafios que o mundo da tecnologia reserva
 <img src="https://via.placeholder.com/90x40/f03611/ffffff?text=Html" alt="Html" style="font-size: 16;"> <img src="https://via.placeholder.com/90x40/005eeb/ffffff?text=CSS" alt="CSS" style="font-size: 16;"> <img src="https://via.placeholder.com/90x40/ebc400/ffffff?text=JavaS" alt="javaScript" style="font-size: 16;"> <img src="https://via.placeholder.com/90x40/b342f5/ffffff?text=BootS" alt="BottStrap" style="font-size: 16;"> <img src="https://via.placeholder.com/90x40/b300bd/ffffff?text=Figma" alt="Figma" style="font-size: 16;"> <img src="https://via.placeholder.com/90x40/3392ff/ffffff?text=PHP" alt="PHP" style="font-size: 16;">
  <img src="https://via.placeholder.com/90x40/f79205/ffffff?text=Mysql" alt="Mysql" style="font-size: 16;">  <img src="https://via.placeholder.com/90x40/039c00/ffffff?text=WordPress" alt="WordPress" style="font-size: 16;"> <img src="https://via.placeholder.com/90x40/8a0000/ffffff?text=Wix" alt="Wix" style="font-size: 16;"> <img src="https://via.placeholder.com/90x40/021dcc/ffffff?text=PhotoShop" alt="PhotoShop" style="font-size: 16;"> 
 
+## ✔ Portifólio
 
+<a href="https://danielpribeiro.github.io/MeuPortifolio/">Veja Aqui</a>
 
 
 
