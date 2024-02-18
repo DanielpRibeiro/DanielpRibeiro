@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Me chamo Daniel Ribeiro, sou de Goiânia-Goiás, Brazil. Sou estudande de programção no curso de Análise e Desenvolvimento de Software. Atuo atualmente como Web Designer 
 <!--
 **DanielpRibeiro/DanielpRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
