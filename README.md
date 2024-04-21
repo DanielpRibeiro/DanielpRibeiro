@@ -1,6 +1,6 @@
 ## 👋 Olá
 
-Me chamo Daniel Ribeiro, sou de Goiânia-Goiás, Brazil. Sou estudande de programção no curso de Análise e Desenvolvimento de Software. Atuo atualmente como Web Designer 
+Me chamo Daniel Ribeiro, sou de Goiânia-Goiás, Brazil. Sou estudande de programção no curso de Análise e Desenvolvimento de Software. Atuo atualmente com Desenvolvimento Web. 
 
 
 ## 🚀 Experiência
