@@ -5,7 +5,7 @@ Me chamo Daniel Ribeiro, sou de Goiânia-Goiás, Brazil. Sou estudande de progra
 
 ## 🚀 Experiência
 
-Há mais de 2 anos, tenho tido o privilégio de atuar com desenvolvimento web, acumulando experiência em empresas de renome, startups e agências de destaque. Ao longo dessa jornada, tenho testemunhado em primeira mão o ritmo acelerado e a constante evolução desse setor dinâmico.
+Tenho o privilégio de atuar com desenvolvimento web, acumulando experiência em empresas de renome, startups e agências de destaque. Ao longo dessa jornada, tenho testemunhado em primeira mão o ritmo acelerado e a constante evolução desse setor dinâmico.
 <br><br>
 Mais do que simplesmente acumular conhecimento, minha jornada tem sido marcada por uma busca incessante pelo aprendizado contínuo. Cada projeto, desafio e obstáculo me proporcionaram oportunidades únicas para expandir meu conhecimento e aprimorar minhas habilidades.
 <br><br>
