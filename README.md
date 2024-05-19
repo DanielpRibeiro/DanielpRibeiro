@@ -11,7 +11,6 @@ Mais do que simplesmente acumular conhecimento, minha jornada tem sido marcada p
 Estou sempre pronto para enfrentar os desafios que o mundo da tecnologia reserva e ansioso para deixar minha marca nesse universo em constante evolução. Com uma mente aberta e um espírito empreendedor, estou determinado a alcançar o sucesso e inspirar outros a fazerem o mesmo juntos.
 
 ## 👩‍💻 Conhecimentos
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielpribeiro&layout=compact)
 
 
 <img src="https://via.placeholder.com/90x40/f03611/ffffff?text=Html" alt="Html" style="font-size: 16;"> <img src="https://via.placeholder.com/90x40/005eeb/ffffff?text=CSS" alt="CSS" style="font-size: 16;"> <img src="https://via.placeholder.com/90x40/ebc400/ffffff?text=JavaS" alt="javaScript" style="font-size: 16;"> <img src="https://via.placeholder.com/90x40/b342f5/ffffff?text=BootS" alt="BottStrap" style="font-size: 16;"> <img src="https://via.placeholder.com/90x40/b300bd/ffffff?text=Figma" alt="Figma" style="font-size: 16;"> <img src="https://via.placeholder.com/90x40/3392ff/ffffff?text=PHP" alt="PHP" style="font-size: 16;">
