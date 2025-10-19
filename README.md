@@ -1,27 +1,20 @@
-## 👋 Olá
+🚀 Sobre Minha Jornada
+Atualmente, coordeno projetos que integram estratégia e análise de dados, utilizando técnicas preditiva, exploratória e estatística para extrair insights valiosos de grandes datasets. Gerencio projetos com ferramentas como Power BI para relatórios interativos, aplico ciência de dados em automações internas, processando volumes massivos de informações com foco em limpeza e tratamento de dados para otimizar processos e suportar decisões baseadas em evidências. Mantenho o foco em desenvolvimento web e automações, criando sites e fluxos que resolvem problemas reais.​
 
-Me chamo Daniel Ribeiro, sou de Goiânia-Goiás, Brazil. Sou estudande de programção no curso de Análise e Desenvolvimento de Software. Atuo atualmente com Desenvolvimento Web. 
+👩‍💻 Habilidades Técnicas
+Desenvolvimento Web: HTML, CSS, JavaScript, PHP, WordPress
+Design e Prototipagem: Figma, Photoshop
+Banco de Dados: MySQL
+Ciência de Dados e Automação: Python, Pandas, SQL para consultas, análise preditiva e exploratória, estatística aplicada, tratamento e limpeza de dados, Power BI, N8N para workflows de automação.
 
-## 🚀 Experiência
+Essas habilidades me permitem entregar soluções completas, desde protótipos visuais até análises preditivas robustas e fluxos de dados eficientes.​​
 
-Tenho o privilégio de atuar com desenvolvimento web, acumulando experiência em empresas de renome, startups e agências de destaque. Ao longo dessa jornada, tenho testemunhado em primeira mão o ritmo acelerado e a constante evolução desse setor dinâmico.
-<br><br>
-Mais do que simplesmente acumular conhecimento, minha jornada tem sido marcada por uma busca incessante pelo aprendizado contínuo. Cada projeto, desafio e obstáculo me proporcionaram oportunidades únicas para expandir meu conhecimento e aprimorar minhas habilidades.
-<br><br>
-Estou sempre pronto para enfrentar os desafios que o mundo da tecnologia reserva e ansioso para deixar minha marca nesse universo em constante evolução. Com uma mente aberta e um espírito empreendedor, estou determinado a alcançar o sucesso e inspirar outros a fazerem o mesmo juntos.
+📊 Projetos em Destaque
+Automação em atividades de marketing com N8N e APIs para integração e qualificação de leads, incluindo limpeza de dados para precisão.
+Análise e estruturação de dados em energia e telecom, com foco em modelagem estatística e preditiva.
+Desenvolvimento de sites WordPress e Wix, otimizados para integração com ferramentas.
 
-## 👩‍💻 Conhecimentos
-
-
-<img src="https://via.placeholder.com/90x40/f03611/ffffff?text=Html" alt="Html" style="font-size: 16;"> <img src="https://via.placeholder.com/90x40/005eeb/ffffff?text=CSS" alt="CSS" style="font-size: 16;"> <img src="https://via.placeholder.com/90x40/ebc400/ffffff?text=JavaS" alt="javaScript" style="font-size: 16;"> <img src="https://via.placeholder.com/90x40/b342f5/ffffff?text=BootS" alt="BottStrap" style="font-size: 16;"> <img src="https://via.placeholder.com/90x40/b300bd/ffffff?text=Figma" alt="Figma" style="font-size: 16;"> <img src="https://via.placeholder.com/90x40/3392ff/ffffff?text=PHP" alt="PHP" style="font-size: 16;">
- <img src="https://via.placeholder.com/90x40/f79205/ffffff?text=Mysql" alt="Mysql" style="font-size: 16;">  <img src="https://via.placeholder.com/90x40/039c00/ffffff?text=WordPress" alt="WordPress" style="font-size: 16;"> <img src="https://via.placeholder.com/90x40/8a0000/ffffff?text=Wix" alt="Wix" style="font-size: 16;"> <img src="https://via.placeholder.com/90x40/021dcc/ffffff?text=PhotoShop" alt="PhotoShop" style="font-size: 16;"> 
-
-## ✔ Portifólio
-
-<a href="https://danielpribeiro.github.io/MeuPortifolio/">Veja Aqui</a>
-
-
-
+Esses são alguns projetos e aplicação prática de minhas skills em cenários reais de negócios.
 
 
 <!--
